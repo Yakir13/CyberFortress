@@ -1,0 +1,35 @@
+.home {
+    display: block;
+    margin: 70px;
+    text-align: center;
+}
+
+.home h2 {
+    color: #F44336;
+    /* red 500 */
+    font-size: 3.5rem;
+    text-align: center;
+    letter-spacing: 1.5px;
+}
+
+.home p {
+    color: #fff;
+    text-align: center;
+    font-size: 35px;
+}
+
+.home button {
+    margin-top: 10px;
+    font-size: 30px;
+    border: 2px solid;
+    border-radius: 25px;
+    padding: 12px;
+    background-color: transparent;
+    color: #fff;
+    cursor: pointer;
+}
+
+.home button:hover {
+    color: #E53935;
+    /* red 500 */
+}
