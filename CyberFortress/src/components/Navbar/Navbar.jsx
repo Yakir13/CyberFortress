@@ -3,7 +3,7 @@ import './Navbar.css';
 function Navbar(){
     return(
         <nav className="nav">
-            <a href="/" className="site_title">CyberWeb</a>
+            <a href="/" className="site_title">CyberFortress</a>
             <ul>
                 <li><a href="/CD">הגנות סייבר</a></li>
                 <li>
