@@ -1,0 +1,39 @@
+.DoS_DDoS h1 {
+    color: #F44336;
+    /* red 500 */
+    background-color: #555;
+    font-size: 4rem;
+    text-align: center;
+    letter-spacing: 1.5px;
+    margin: 0;
+    padding: 10px;
+}
+
+.DoS_DDoS h2 {
+    color: #F44336;
+    /* red 500 */
+    font-size: 3rem;
+    text-align: right;
+    margin: 20px 25px 0;
+    text-decoration: underline;
+}
+
+.DoS_DDoS h3 {
+    color: #fff;
+    font-size: 2rem;
+    text-align: left;
+    margin: 10px 25px 35px;
+    /* width: 60%; */
+}
+
+.DoS_DDoS p {
+    color: #fff;
+    text-align: right;
+    font-size: 2rem;
+    margin: 15px 25px 70px;
+}
+
+.DoS_DDoS b {
+    color: #F44336;
+    /* red 500 */
+}
