@@ -14,9 +14,7 @@
 }
 
 .nav .site_title:hover {
-    /* background-color: #777; */
     color: #F44336;
-    /* red 500 */
 }
 
 .nav .site_title:active {
@@ -45,7 +43,6 @@
 
 .nav a:hover {
     color: #F44336;
-    /* red 500 */
 }
 
 /* .nav li:hover {

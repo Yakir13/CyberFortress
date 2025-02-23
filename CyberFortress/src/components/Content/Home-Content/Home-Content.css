@@ -5,7 +5,7 @@
 }
 
 .home h2 {
-    color: #F44336;
+    color: #F44336; 
     /* red 500 */
     font-size: 3.5rem;
     text-align: center;
@@ -29,7 +29,6 @@
     cursor: pointer;
 }
 
-.home button:hover {
+/* .home button:hover {
     color: #E53935;
-    /* red 500 */
-}
+} */
