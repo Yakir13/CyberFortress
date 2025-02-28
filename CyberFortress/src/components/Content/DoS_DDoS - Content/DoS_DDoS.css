@@ -1,70 +1,33 @@
-/* .DoS_DDoS h1 {
-    color: #F44336;
-    background-color: #555;
-    font-size: 4rem;
-    text-align: center;
-    letter-spacing: 1.5px;
-    margin: 0 0 50px;
-    padding: 10px;
-}
-
-.DoS_DDoS h2 {
-    color: #E74856;
-    font-size: 3rem;
-    text-align: right;
-    margin: 0 50px;
-}
-
-.DoS_DDoS h3 {
-    color: #fff;
-    font-size: 3rem;
-    color: #E74856;
-    margin: 0 50px 10px;
-}
-
-.DoS_DDoS p {
-    color: #fff;
-    text-align: right;
-    font-size: 2rem;
-    margin: 10px 50px 20px;
-}
-
-.DoS_DDoS b {
-    color: #E74856;
-    font-size: 2.5rem;
-    text-decoration: underline;
-} */
-
 /* main */
-.main h1 {
+/* .main h1 {
     background-color: #555;
     color: #F44336;
     letter-spacing: 1.5px;
     text-align: center;
-    margin: 0 0 20px;
+    margin: 0 0 30px;
     font-size: 3.5rem;
     padding: 10px;
 }
 
 .main h2 {
     color: #E74856;
+    text-decoration: underline;
     font-size: 2.5rem;
     margin: 0 30px;
-    text-decoration: underline;
 }
 
 .main p {
     background-color: #151515;
     color: #fff;
-    margin: 5px 30px 30px;
+    margin: 10px 30px 30px;
     font-size: 1.8rem;
     padding: 10px;
     border-radius: 10px;
     letter-spacing: 1px;
-}
+} */
 
 /* examples */
-.examples h1 {
+/* .examples h1 {
     background-color: #555;
     color: #F44336;
     letter-spacing: 1.5px;
@@ -72,14 +35,6 @@
     margin: 0 0 30px;
     font-size: 4rem;
     padding: 10px;
-}
-
-.examples img {
-    height: 500px;
-    width: 650px;
-    display: block;
-    margin: auto;
-    border-radius: 50px;
 }
 
 .examples h2 {
@@ -94,10 +49,65 @@
     color: #fff;
     margin: 10px 30px 30px;
     font-size: 1.8rem;
-    padding: 10px;
     border-radius: 10px;
     letter-spacing: 1px;
+} */
+
+h1 {
+    background-color: #555;
+    color: #F44336;
+    letter-spacing: 1.5px;
+    text-align: center;
+    margin: 0 0 30px;
+    font-size: 4rem;
+    padding: 10px;
 }
+
+h2 {
+    color: #E74856;
+    font-size: 2.5rem;
+    margin: 0 30px;
+    cursor: pointer;
+}
+
+p {
+    background-color: #151515;
+    color: #fff;
+    margin: 10px 30px 30px;
+    font-size: 2rem;
+    letter-spacing: 1px;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+
+button {
+    color: #E74856;
+    background-color: transparent;
+    font-weight: 600;
+    border: none;
+    font-size: 2.5rem;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto;
+}
+
+button:hover {
+    color: #fff;
+}
+
+
+
+.isVisible {
+    background-color: #151515;
+    color: #fff;
+    margin: 10px 30px 30px;
+    font-size: 2rem;
+    letter-spacing: 1px;
+}
+
+
+
 
 
 
