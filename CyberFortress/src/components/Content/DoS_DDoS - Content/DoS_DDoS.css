@@ -1,58 +1,3 @@
-/* main */
-/* .main h1 {
-    background-color: #555;
-    color: #F44336;
-    letter-spacing: 1.5px;
-    text-align: center;
-    margin: 0 0 30px;
-    font-size: 3.5rem;
-    padding: 10px;
-}
-
-.main h2 {
-    color: #E74856;
-    text-decoration: underline;
-    font-size: 2.5rem;
-    margin: 0 30px;
-}
-
-.main p {
-    background-color: #151515;
-    color: #fff;
-    margin: 10px 30px 30px;
-    font-size: 1.8rem;
-    padding: 10px;
-    border-radius: 10px;
-    letter-spacing: 1px;
-} */
-
-/* examples */
-/* .examples h1 {
-    background-color: #555;
-    color: #F44336;
-    letter-spacing: 1.5px;
-    text-align: center;
-    margin: 0 0 30px;
-    font-size: 4rem;
-    padding: 10px;
-}
-
-.examples h2 {
-    color: #E74856;
-    font-size: 2.5rem;
-    margin: 0 30px;
-    text-decoration: underline;
-}
-
-.examples p {
-    background-color: #151515;
-    color: #fff;
-    margin: 10px 30px 30px;
-    font-size: 1.8rem;
-    border-radius: 10px;
-    letter-spacing: 1px;
-} */
-
 h1 {
     background-color: #555;
     color: #F44336;
@@ -82,7 +27,7 @@ p {
 }
 
 button {
-    color: #E74856;
+    color: #fff;
     background-color: transparent;
     font-weight: 600;
     border: none;
@@ -93,10 +38,12 @@ button {
 }
 
 button:hover {
-    color: #fff;
+    color: #E74856;
 }
 
-
+button.active-button {
+    color: #E74856;
+}
 
 .isVisible {
     background-color: #151515;
