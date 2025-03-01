@@ -11,14 +11,8 @@
 .nav .site_title {
     font-size: 50px;
     margin-left: 10px;
-}
-
-.nav .site_title:hover {
     color: #F44336;
-}
-
-.nav .site_title:active {
-    background-color: #555;
+    background-color: #151515;
 }
 
 .nav ul {
@@ -37,25 +31,20 @@
     align-items: center;
     text-decoration: none;
     color: #fff;
-    height: 100%;
     padding: 10px;
+
 }
 
-.nav a:hover {
+.nav a:hover,
+.nav a.active {
     color: #F44336;
+    background-color: #151515;
 }
 
-/* .nav li:hover {
-    background-color: #555;
+.nav a:active {
+    color: #f57168;
+}
 
-} */
-
-/* .nav li:active {
-    background-color: #555;
-
-}  */
-
-/* dropdown */
 ul li ul.dropdown li {
     display: block;
 }
@@ -75,3 +64,5 @@ ul li:hover ul.dropdown {
 ul.dropdown li {
     display: block;
 }
+
+

@@ -1,7 +1,7 @@
-import './DoS_DDoS.css'
+import './DoS_DDoS-Content.css'
 import { useState } from 'react';
 
-function DoS_DDoS(){
+function DoS_DDoS_Content(){
     const [isVisible1, setIsVisible1] = useState(false)
     const [isVisible2, setIsVisible2] = useState(false)
     const [isVisible3, setIsVisible3] = useState(false)
@@ -51,4 +51,4 @@ function DoS_DDoS(){
     </div>
     )
 }
-export default DoS_DDoS;
+export default DoS_DDoS_Content;
