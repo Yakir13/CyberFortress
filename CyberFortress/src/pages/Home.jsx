@@ -1,10 +1,10 @@
 import React from 'react'
-import HomeContent from '../components/Content/Home-Content/Home-Content'
+import Home_Content from '../components/Content/Home_Content/Home_Content'
 
 function Home(){
     return(
     <>
-    <HomeContent/>
+    <Home_Content/>
     </>
     )
 }

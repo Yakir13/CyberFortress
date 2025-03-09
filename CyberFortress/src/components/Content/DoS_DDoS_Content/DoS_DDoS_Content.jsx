@@ -1,4 +1,4 @@
-import './DoS_DDoS-Content.css'
+import './DoS_DDoS_Content.css'
 import { useState } from 'react';
 
 function DoS_DDoS_Content(){

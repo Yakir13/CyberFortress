@@ -12,7 +12,7 @@
     font-size: 50px;
     margin-left: 10px;
     color: #F44336;
-    background-color: #151515;
+    /* background-color: #252525; */
 }
 
 .nav ul {
@@ -38,7 +38,7 @@
 .nav a:hover,
 .nav a.active {
     color: #F44336;
-    background-color: #151515;
+    background-color: #252525;
 }
 
 .nav a:active {

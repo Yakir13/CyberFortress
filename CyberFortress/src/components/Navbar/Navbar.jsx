@@ -14,7 +14,7 @@ function Navbar() {
             </ul>
             </li>
             <li><NavLink to="/CIS">אבטחת מידע וסייבר</NavLink></li>
-            <li><NavLink to="/Home">עמוד בית</NavLink></li>
+            <li><NavLink to="/">עמוד בית</NavLink></li>
             </ul>
     </nav>
     );

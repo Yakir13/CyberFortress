@@ -1,7 +1,7 @@
 import React from 'react'
-import './Home-Content.css'
+import './Home_Content.css'
 
-function HomeContent(){
+function Home_Content(){
     return(
     <div className="home">
         <h2 dir='rtl'>ברוכים הבאים ל- CyberFortress!</h2>
@@ -10,4 +10,4 @@ function HomeContent(){
     </div>
     )
 }
-export default HomeContent;
+export default Home_Content;
