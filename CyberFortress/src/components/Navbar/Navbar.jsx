@@ -13,7 +13,11 @@ function Navbar() {
                 <li><NavLink to="/Malware">Malware</NavLink></li>
             </ul>
             </li>
-            <li><NavLink to="/CIS">אבטחת מידע וסייבר</NavLink></li>
+            <li><NavLink to="/CIS">אבטחת מידע וסייבר</NavLink>
+            <ul className="dropdown">
+                <li><NavLink to="/KoH">סוגי האקרים</NavLink></li>
+            </ul>
+            </li>
             <li><NavLink to="/">עמוד בית</NavLink></li>
             </ul>
     </nav>

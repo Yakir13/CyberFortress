@@ -4,22 +4,21 @@
     text-align: center;
 }
 
-.home .hh2 {
+.hh2 {
     display: inline;
-    color: #F44336; 
-    /* red 500 */
+    color: #F44336; /* red 500 */
     font-size: 3.5rem;
     text-align: center;
     letter-spacing: 1.5px;
 }
 
-.home .hp {
+.hp {
     color: #fff;
     text-align: center;
     font-size: 2.5rem;
 }
 
-.home .hb {
+.hb {
     margin-top: 50px;
     font-size: 2.5rem;
     border: 2px solid;
@@ -30,6 +29,6 @@
     cursor: pointer;
 }
 
-.home .hb:hover {
+.hb:hover {
     color: #E53935;
 }

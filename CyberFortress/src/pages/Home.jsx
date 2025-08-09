@@ -1,4 +1,3 @@
-import React from 'react'
 import Home_Content from '../components/Content/Home_Content/Home_Content'
 
 function Home(){
