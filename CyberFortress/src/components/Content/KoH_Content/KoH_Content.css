@@ -7,3 +7,61 @@
     font-size: 4rem;
     padding: 10px;
 }
+
+.kohh2 {
+    background-color: #151515;
+    color: #E74856;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    font-size: 2.5rem;
+    letter-spacing: 1.5px;
+    width: 70%;
+    font-weight: 600;
+}
+
+.kohp {
+    background-color: #151515;
+    color: #fff;
+    font-size: 1.5rem;
+    letter-spacing: 2.2px;
+    padding: 5px;
+    direction: rtl;
+    text-align: right;
+    margin: 0 auto 50px;
+    width: 70%;
+    font-weight: 600;
+}
+
+button {
+    color: #fff;
+    background-color: #151515;
+    /* border-radius: 10px; */
+    padding: 10px;
+    font-weight: 600;
+    border: none;
+    font-size: 2.5rem;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+}
+
+button:hover,
+button.active-button {
+    color: #E74856;
+}
+
+.isVisible {
+    color: #fff;
+    background-color: #151515;
+    font-size: 1.5rem;
+    letter-spacing: 2.2px;
+    padding: 5px;
+    width: 70%;
+    direction: rtl;
+    text-align: right;
+    margin: 0 auto 30px;
+    font-weight: 600;
+}
